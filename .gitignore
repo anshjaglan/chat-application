@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+chat-backend/node_modules/
+chat-frontend/node_modules/
+
+# Environment variables
+.env
+chat-backend/.env
+chat-frontend/.env
+
+# Build output
+build/
+dist/
+.next/
+.cache/
+
+# OS/IDE generated
+.DS_Store
+*.log
+.vscode/
